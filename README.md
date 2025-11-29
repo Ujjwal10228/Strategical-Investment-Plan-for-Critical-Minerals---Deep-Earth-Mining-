@@ -1,0 +1,1 @@
+# Strategical-Investment-Plan-for-Critical-Minerals---Deep-Earth-Mining-
