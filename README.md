@@ -5,7 +5,9 @@
 Prepare an investment plan optimizing:
 
 Location (A, B, C)
+
 Depth (0–20 km)
+
 Year horizon (5, 10, 15 years)
 
 **Goal**: Maximize cumulative profit over 5, 10, and 15 years.
@@ -15,8 +17,11 @@ Year horizon (5, 10, 15 years)
 Where:
 
 **m** → mineral
+
 **l** → location
+
 **d** → depth
+
 **y** → year horizon
 
 Supply-demand constraints:
