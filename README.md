@@ -1,29 +1,23 @@
 # Strategical-Investment-Plan-for-Critical-Minerals---Deep-Earth-Mining-
 
-🎯 Main Task
+🎯 **Main Task**
 
 Prepare an investment plan optimizing:
 
 Location (A, B, C)
-
 Depth (0–20 km)
-
 Year horizon (5, 10, 15 years)
 
-Goal: Maximize cumulative profit over 5, 10, and 15 years.
+**Goal**: Maximize cumulative profit over 5, 10, and 15 years.
 
-Profit =
-Σ massₘ,ₗ,ₗ × ( priceₘ,ᵧ – ( costₗ,ₗ + refining_costₗ,ₗ ) )
+**Profit = Σ massₘ,ₗ,ₗ × ( priceₘ,ᵧ – ( costₗ,ₗ + refining_costₗ,ₗ ) )**
 
 Where:
 
-m → mineral
-
-l → location
-
-d → depth
-
-y → year horizon
+**m** → mineral
+**l** → location
+**d** → depth
+**y** → year horizon
 
 Supply-demand constraints:
 If extraction exceeds the demand–supply gap, prices fall.
