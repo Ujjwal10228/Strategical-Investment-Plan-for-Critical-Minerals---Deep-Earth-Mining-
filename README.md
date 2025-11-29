@@ -4,11 +4,11 @@
 
 Prepare an investment plan optimizing:
 
-Location (A, B, C)
+1. Location (A, B, C)
 
-Depth (0–20 km)
+2. Depth (0–20 km)
 
-Year horizon (5, 10, 15 years)
+3. Year horizon (5, 10, 15 years)
 
 **Goal**: Maximize cumulative profit over 5, 10, and 15 years.
 
@@ -25,10 +25,14 @@ Where:
 **y** → year horizon
 
 Supply-demand constraints:
+
 If extraction exceeds the demand–supply gap, prices fall.
+
 Price remains fixed only if:
 demand < new_supply
 
+
+### Solution
 
 - requirements.txt	Dependencies (pandas, numpy, scipy, matplotlib, seaborn, pulp, openpyxl)
 - task1_task2_industry_analysis.ipynb	Mining industry overview + ecological impacts 
